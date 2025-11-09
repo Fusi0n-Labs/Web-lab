@@ -5,16 +5,12 @@ frameworks, outils, composants, APIs, design systems, bonnes pratiques et pipeli
 
 > **Usage éducatif et de veille uniquement** — destiné à la formation, la référence et la recherche technique.
 
----
-
 ### 🧩 Structure
 
 Les ressources sont importées directement **à la racine** pour conserver une organisation claire et simple.  
 Chaque dossier correspond à un **framework**, un **outil** ou un **ensemble de bonnes pratiques**, contenant :
 - le contenu importé (snapshot),
 - un `README.md` minimal indiquant la **source**, la **licence** et un **avertissement d’usage**.
-
----
 
 ### 🧱 Côté Frontend
 
@@ -25,8 +21,6 @@ Les projets mettent l’accent sur :
 - la **modularité** des composants,  
 - la **performance** du rendu,  
 - et la **cohérence visuelle** via des design systems maintenables.  
-
----
 
 ### ⚙️ Côté Backend
 
@@ -39,16 +33,12 @@ L’objectif est de proposer des architectures :
 - et **sécurisées par conception**,  
 assurant une continuité fluide entre front et back.
 
----
-
 ### 📜 Règles d’usage
 
 - 📘 Utiliser ces ressources comme **références ou exemples**, jamais comme code propriétaire.  
 - 🔍 Vérifier les **licences** avant toute réutilisation dans un projet.  
 - 🧹 Ne jamais committer de **fichiers de build**, **secrets** ou **clés API**.  
 - 🪪 Mentionner la **source** si une partie du code est reprise à titre éducatif.
-
----
 
 ### ⚠️ Clause de non-responsabilité ⚠️
 
